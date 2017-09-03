@@ -1,0 +1,6 @@
+C:\Users\Matthew\Desktop\Ubisoft\Ubisoft\bin\Debug\Ubisoft.exe.config
+C:\Users\Matthew\Desktop\Ubisoft\Ubisoft\bin\Debug\Ubisoft.exe
+C:\Users\Matthew\Desktop\Ubisoft\Ubisoft\bin\Debug\Ubisoft.pdb
+C:\Users\Matthew\Desktop\Ubisoft\Ubisoft\obj\Debug\Ubisoft.csprojResolveAssemblyReference.cache
+C:\Users\Matthew\Desktop\Ubisoft\Ubisoft\obj\Debug\Ubisoft.exe
+C:\Users\Matthew\Desktop\Ubisoft\Ubisoft\obj\Debug\Ubisoft.pdb

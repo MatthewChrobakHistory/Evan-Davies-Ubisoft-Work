@@ -1,0 +1,6 @@
+C:\Users\Matthew\Desktop\UbisoftSplitter\UbisoftSplitter\bin\Debug\UbisoftSplitter.exe.config
+C:\Users\Matthew\Desktop\UbisoftSplitter\UbisoftSplitter\bin\Debug\UbisoftSplitter.exe
+C:\Users\Matthew\Desktop\UbisoftSplitter\UbisoftSplitter\bin\Debug\UbisoftSplitter.pdb
+C:\Users\Matthew\Desktop\UbisoftSplitter\UbisoftSplitter\obj\Debug\UbisoftSplitter.csprojResolveAssemblyReference.cache
+C:\Users\Matthew\Desktop\UbisoftSplitter\UbisoftSplitter\obj\Debug\UbisoftSplitter.exe
+C:\Users\Matthew\Desktop\UbisoftSplitter\UbisoftSplitter\obj\Debug\UbisoftSplitter.pdb
